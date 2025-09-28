@@ -1,3 +1,6 @@
 # Robust_Urdu_ASR_Pipeline
-Fine-Tuning OpenAI's Whisper for Urdu along with experimental lightweight AI models and heuristics for Pre &amp; Post Processing. 
-End goal: Deployable model, end-to-end full stack web application &amp; Research Publications. 
+Final Year Project for Undergarduate BSCS @ IBA Karachi. Class of 2026.
+
+Low-resource languages like Urdu face persistent ASR challenges: limited datasets, noisy recordings, dialect variation, and high transcription error rates.
+
+
